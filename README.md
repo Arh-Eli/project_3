@@ -1,16 +1,7 @@
-# aftoreg
+# авторизация-регистрация
 
-A new Flutter project.
+<img width="571" alt="image" src="https://github.com/Arh-Eli/project_3/assets/145199743/b095ab19-bb7a-408a-8c63-2c0de5f530c1">
 
-## Getting Started
+<img width="567" alt="image" src="https://github.com/Arh-Eli/project_3/assets/145199743/65885be4-5db4-410d-8088-10defd0c4176">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="500" alt="image" src="https://github.com/Arh-Eli/project_3/assets/145199743/3028a016-cc47-432c-8074-238bfb239b0f">
